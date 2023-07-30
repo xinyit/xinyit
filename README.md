@@ -15,13 +15,13 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=xinyit)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-69%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-71%20hrs%204%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 7.5 kB Used in GitHub's Storage 
+> 📦 7.6 kB Used in GitHub's Storage 
  > 
 > 🏆 14 Contributions in the Year 2023
  > 
@@ -58,23 +58,22 @@ Sunday                   1547 commits        █████████░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-TypeScript               12 hrs 38 mins      ████████████████░░░░░░░░░   63.27 % 
-HTML                     3 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
-JavaScript               1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
-JSON                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
-MDX                      48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+TypeScript               11 hrs 38 mins      ███████████████░░░░░░░░░░   60.18 % 
+HTML                     3 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
+JavaScript               1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+JSON                     1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
+MDX                      48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
 
 🔥 Editors: 
-VS Code                  19 hrs 58 mins      █████████████████████████   100.00 % 
+VS Code                  19 hrs 21 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-camplus                  13 hrs 44 mins      █████████████████░░░░░░░░   68.78 % 
-DC_Guidelines_Search     5 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   28.64 % 
-angular-authentication   26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
-DC_Guidelines_Draft_Respo4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+camplus                  13 hrs 11 mins      █████████████████░░░░░░░░   68.13 % 
+DC_Guidelines_Search     5 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   29.57 % 
+angular-authentication   26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
 
 💻 Operating System: 
-Mac                      19 hrs 58 mins      █████████████████████████   100.00 % 
+Mac                      19 hrs 21 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -94,7 +93,7 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xinyit/xinyit/main/assets/bar_graph.png)
 
 
- Last Updated on 29/07/2023 16:08:46 UTC
+ Last Updated on 30/07/2023 16:08:40 UTC
 <!--END_SECTION:waka-->
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
