@@ -1,4 +1,4 @@
-### <div align="center"> Hello and welcome to Xin Yi's Github page 👋
+### <div align="center"> Hello awesome human being. Welcome to Xin Yi's Github page 👋
 
 <div align="center">Here are some things about me:
 <br /><div align="center">😄 Pronouns: She/her
@@ -24,8 +24,6 @@
 > 📦 17.7 kB Used in GitHub's Storage 
  > 
 > 🏆 18 Contributions in the Year 2023
- > 
-> 🚫 Not Opted to Hire
  > 
 > 📜 10 Public Repositories 
  > 
