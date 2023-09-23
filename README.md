@@ -15,13 +15,13 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=xinyit)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-168%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-170%20hrs%2036%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 33.9 kB Used in GitHub's Storage 
+> 📦 34.0 kB Used in GitHub's Storage 
  > 
 > 🏆 167 Contributions in the Year 2023
  > 
@@ -58,22 +58,22 @@ Sunday                   1581 commits        █████████░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Python                   15 hrs 3 mins       ███████████████████████░░   90.58 % 
-Bash                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
-Markdown                 18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
-TOML                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
-Text                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+Python                   16 hrs 55 mins      ███████████████████████░░   91.46 % 
+Bash                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+Markdown                 18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+TOML                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+Text                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 37 mins      █████████████████████████   100.00 % 
+VS Code                  18 hrs 30 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-fall_detection_server_mon11 hrs 28 mins      █████████████████░░░░░░░░   69.05 % 
-fall_detection_aws_server5 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   30.74 % 
-fyp                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+fall_detection_server_mon13 hrs 10 mins      ██████████████████░░░░░░░   71.13 % 
+fall_detection_aws_server5 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   28.68 % 
+fyp                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 💻 Operating System: 
-Mac                      16 hrs 37 mins      █████████████████████████   100.00 % 
+Mac                      18 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -93,7 +93,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xinyit/xinyit/main/assets/bar_graph.png)
 
 
- Last Updated on 22/09/2023 16:09:58 UTC
+ Last Updated on 23/09/2023 16:08:47 UTC
 <!--END_SECTION:waka-->
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
