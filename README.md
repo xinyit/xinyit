@@ -15,7 +15,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=xinyit)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-189%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-190%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -58,19 +58,20 @@ Sunday                   1583 commits        ████████░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Python                   3 mins              ████████████████████░░░░░   78.06 % 
-Vue.js                   0 secs              █████░░░░░░░░░░░░░░░░░░░░   20.46 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+Python                   11 mins             ██████████████████████░░░   88.42 % 
+Vue.js                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+Bash                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 
 🔥 Editors: 
-VS Code                  3 mins              █████████████████████████   100.00 % 
+VS Code                  13 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-fall_detection_server_mon3 mins              ████████████████████░░░░░   79.54 % 
-wad2_workshop            0 secs              █████░░░░░░░░░░░░░░░░░░░░   20.46 % 
+fall_detection_server_mon12 mins             ████████████████████████░   94.13 % 
+wad2_workshop            0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
 
 💻 Operating System: 
-Mac                      3 mins              █████████████████████████   100.00 % 
+Mac                      13 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -90,7 +91,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xinyit/xinyit/main/assets/bar_graph.png)
 
 
- Last Updated on 22/10/2023 16:09:16 UTC
+ Last Updated on 23/10/2023 16:10:35 UTC
 <!--END_SECTION:waka-->
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
