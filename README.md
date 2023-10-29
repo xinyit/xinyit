@@ -15,7 +15,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=xinyit)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-192%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-192%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -58,21 +58,21 @@ Sunday                   1583 commits        ████████░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Python                   1 hr 56 mins        █████████████████████░░░░   82.23 % 
-Bash                     21 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
-Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+Python                   1 hr 57 mins        ██████████████████░░░░░░░   73.85 % 
+Bash                     37 mins             ██████░░░░░░░░░░░░░░░░░░░   23.74 % 
+Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 21 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 39 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-fall_detection_server_mon2 hrs 19 mins       █████████████████████████   98.79 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+fall_detection_server_mon2 hrs 37 mins       █████████████████████████   98.92 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
 
 💻 Operating System: 
-Mac                      2 hrs 21 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -92,7 +92,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xinyit/xinyit/main/assets/bar_graph.png)
 
 
- Last Updated on 28/10/2023 16:09:11 UTC
+ Last Updated on 29/10/2023 16:09:16 UTC
 <!--END_SECTION:waka-->
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
