@@ -15,7 +15,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=xinyit)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-205%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-205%20hrs%2042%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -58,20 +58,20 @@ Sunday                   1583 commits        ████████░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Python                   4 hrs 21 mins       ███████████████████░░░░░░   77.52 % 
-Bash                     59 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
-Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
-Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+Python                   4 hrs 4 mins        ███████████████████░░░░░░   74.78 % 
+Bash                     59 mins             █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
+Markdown                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+Text                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 37 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 27 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-fall_detection_server_mon5 hrs 37 mins       █████████████████████████   100.00 % 
+fall_detection_server_mon5 hrs 27 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      5 hrs 37 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -91,7 +91,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xinyit/xinyit/main/assets/bar_graph.png)
 
 
- Last Updated on 15/11/2023 16:11:13 UTC
+ Last Updated on 16/11/2023 16:11:23 UTC
 <!--END_SECTION:waka-->
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
