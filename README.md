@@ -15,7 +15,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=xinyit)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-205%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-205%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -58,16 +58,19 @@ Sunday                   1583 commits        ████████░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Bash                     5 mins              █████████████████░░░░░░░░   68.39 % 
+YAML                     1 min               ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
+Python                   1 min               ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  7 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+rpi_fall_detection_server7 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      7 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -87,7 +90,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xinyit/xinyit/main/assets/bar_graph.png)
 
 
- Last Updated on 01/12/2023 16:11:02 UTC
+ Last Updated on 02/12/2023 16:09:28 UTC
 <!--END_SECTION:waka-->
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
