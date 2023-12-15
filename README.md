@@ -58,20 +58,16 @@ Sunday                   1588 commits        ████████░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Python                   5 hrs 57 mins       █████████████░░░░░░░░░░░░   52.94 % 
-HTML                     3 hrs 54 mins       █████████░░░░░░░░░░░░░░░░   34.82 % 
-SCSS                     1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
-Markdown                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
-Text                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  11 hrs 14 mins      █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Bulk-File-Manager-Flask-A11 hrs 14 mins      █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      11 hrs 14 mins      █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -91,7 +87,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xinyit/xinyit/main/assets/bar_graph.png)
 
 
- Last Updated on 14/12/2023 16:09:20 UTC
+ Last Updated on 15/12/2023 16:10:41 UTC
 <!--END_SECTION:waka-->
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
