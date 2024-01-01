@@ -15,7 +15,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=xinyit)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-229%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-229%20hrs%2026%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -23,7 +23,7 @@
 
 > 📦 21.9 kB Used in GitHub's Storage 
  > 
-> 🏆 229 Contributions in the Year 2023
+> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -58,16 +58,17 @@ Sunday                   1588 commits        ████████░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     23 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  23 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+thoughts-network         23 mins             █████████████████████████   99.14 % 
+my-app                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      23 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -87,7 +88,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xinyit/xinyit/main/assets/bar_graph.png)
 
 
- Last Updated on 31/12/2023 16:10:09 UTC
+ Last Updated on 01/01/2024 16:09:59 UTC
 <!--END_SECTION:waka-->
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
