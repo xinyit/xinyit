@@ -65,7 +65,6 @@ test() {
   bundle exec htmlproofer \
     --disable-external \
     --check-html \
-    --alt-ignore '/.*/' \
     --allow_hash_href \
     "$SITE_DIR"
 }
@@ -129,7 +128,7 @@ deploy() {
 main() {
   init
   build
-  #test
+  test
   resume_site_dir
 
   if $_opt_dry_run; then
