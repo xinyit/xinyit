@@ -42,11 +42,16 @@ init() {
     exit -1
   fi
 
+    # get line with baseurl from _config.yml file 
+    # sed is stream editor
+    # s/.*: *//: removes everything before and including the first colon (:) in each line, followed by any optional spaces (in this case would be 'baseurl:')
+    # s/['\"]//g: removes all single (') and double (") quotes from the line, in this case the quotes around the base url
+    # s/#.*//: removes everything after a #, in this case it removes any comments in the given line
   _baseurl="$(grep '^baseurl:' _config.yml | sed "s/.*: *//;s/['\"]//g;s/#.*//")"
 }
 
 build() {
-  # clean up
+  # clean up: delete _site directory
   if [[ -d $SITE_DIR ]]; then
     rm -rf "$SITE_DIR"
   fi
@@ -55,6 +60,7 @@ build() {
   JEKYLL_ENV=production bundle exec jekyll b -d "$SITE_DIR$_baseurl" --config "$_config"
 }
 
+# this is causing errors
 test() {
   bundle exec htmlproofer \
     --disable-external \
@@ -74,6 +80,7 @@ resume_site_dir() {
 }
 
 setup_gh() {
+    # switch to pages_branch (create if doesn't exist)
   if [[ -z $(git branch -av | grep "$PAGES_BRANCH") ]]; then
     _no_pages_branch=true
     git checkout -b "$PAGES_BRANCH"
@@ -87,7 +94,7 @@ backup() {
   mv .git "$_backup_dir"
 
   # When adding custom domain from Github website,
-  # the CANME only exist on `gh-pages` branch
+  # the CNAME only exist on `gh-pages` branch
   if [[ -f CNAME ]]; then
     mv CNAME "$_backup_dir"
   fi
@@ -102,6 +109,7 @@ flush() {
   [[ -f ".nojekyll" ]] || echo "" >".nojekyll"
 }
 
+# deploy using bot to pages_branch
 deploy() {
   git config --global user.name "GitHub Actions"
   git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
