@@ -122,8 +122,8 @@ deploy() {
   #  git push -u origin "$PAGES_BRANCH"
   #else
   #  git push -f
+  #fi
   git push -u origin "$PAGES_BRANCH" -f
-  fi
 }
 
 main() {
