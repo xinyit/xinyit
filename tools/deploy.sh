@@ -118,10 +118,11 @@ deploy() {
   git add -A
   git commit -m "[Automation] Site update No.${GITHUB_RUN_NUMBER}"
 
-  if $_no_pages_branch; then
-    git push -u origin "$PAGES_BRANCH"
-  else
-    git push -f
+  #if $_no_pages_branch; then
+  #  git push -u origin "$PAGES_BRANCH"
+  #else
+  #  git push -f
+  git push -u origin "$PAGES_BRANCH" -f
   fi
 }
 
