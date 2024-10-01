@@ -60,7 +60,10 @@ build() {
   JEKYLL_ENV=production bundle exec jekyll b -d "$SITE_DIR$_baseurl" --config "$_config"
 }
 
-# this is causing errors
+# disable-external: disables the checking of external links (outside of domain); checking external links may fail / slow down the checking time
+# check-html: checks for basic HTML validation errors, like missing or misused tags
+# allow_hash_href: allows href attributes that simply reference a hash (this is often used in single-page applications or for navigation anchors within the same page)
+# runs the checks in directory corresponding to SITE_DIR
 test() {
   bundle exec htmlproofer \
     --disable-external \
